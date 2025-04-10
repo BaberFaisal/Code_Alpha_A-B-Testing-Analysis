@@ -1,6 +1,6 @@
-# 🧪 A/B Testing Analysis - FaceZonGoogAppFlix Webpage Experiment
+#  A/B Testing Analysis - FaceZonGoogAppFlix Webpage Experiment
 
-## 📋 Project Overview
+##  Project Overview
 
 This project involves conducting an A/B testing analysis to evaluate the impact of a new landing page designed by the e-commerce company **FaceZonGoogAppFlix**. The company aims to increase its current conversion rate of **12.0%** by **at least 0.35%**. The dataset was collected over 23 days using an external software tool named 'A/B Tester'.
 
@@ -8,7 +8,7 @@ Our goal is to determine whether the new page performs better than the current o
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 **Columns:**
 - `user_id`: Unique identifier for each user
@@ -19,7 +19,7 @@ Our goal is to determine whether the new page performs better than the current o
 
 ---
 
-## 🧮 Statistical Techniques Used
+##  Statistical Techniques Used
 
 - ✅ Conversion rate calculation
 - ✅ Z-test for proportions
@@ -48,7 +48,7 @@ Our goal is to determine whether the new page performs better than the current o
 
 ---
 
-## 📌 Recommendation
+##  Recommendation
 
 At this stage, we **do not recommend implementing the new page**. While it performed slightly better, the improvement is not statistically significant, and the test was underpowered. We suggest:
 
@@ -58,15 +58,15 @@ At this stage, we **do not recommend implementing the new page**. While it perfo
 
 ---
 
-## 📁 Files in Repository
+##  Files in Repository
 
 - `ab_testing_analysis.ipynb` – Full Jupyter Notebook analysis
 - `README.md` – This file
-- `ecommerce_ab_data.csv` – Dataset used (if permitted to share)
+
 
 ---
 
-## 📈 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - Pandas
@@ -78,7 +78,4 @@ At this stage, we **do not recommend implementing the new page**. While it perfo
 
 ---
 
-## 🙌 Credits
-
-This project was inspired by real-world A/B testing methodologies and aims to help data teams make informed decisions based on statistical evidence.
 
